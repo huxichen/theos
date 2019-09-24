@@ -9,3 +9,10 @@ See [LICENSE.md](LICENSE.md) for licensing information.
 | [![Travis Status](https://travis-ci.org/theos/theos.svg)](https://travis-ci.org/theos/theos) | [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/0y5mguq1j0lkr7vv?svg=true)](https://ci.appveyor.com/project/kirb/theos) |
 
 Theos is tested via [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) to ensure it remains compatible with popular Theos-based projects. An error above doesn’t necessarily mean Theos isn’t working at all on that platform — just that the test suite failed.
+
+
+
+
+## 一键在Heroku上部署免费Youtube代理
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
